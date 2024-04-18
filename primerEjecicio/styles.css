@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    border: solid;
+    border-color: azure;
+    margin: .5rem;
+    padding: 1rem;
+}
